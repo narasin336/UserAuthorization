@@ -1,0 +1,43 @@
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csproj.GenerateResource.Cache
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.pdb
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.exe
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.pdb
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchUserID.resources
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.UserAuthorization.resources
+\\192.168.4.7\mis\SourceProgramC#\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchProgramID.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe.config
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe.config
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.pdb
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchProgramID.resources
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.UserAuthorization.resources
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.Properties.Resources.resources
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchUserID.resources
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csproj.GenerateResource.Cache
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.exe
+C:\Users\kitti\Desktop\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchProgramID.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.UserAuthorization.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchUserID.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csproj.GenerateResource.Cache
+D:\MyProject\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe.config
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.exe
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.pdb
+D:\MyProject\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.exe
+D:\MyProject\UserAuthorization\UserAuthorization\bin\Debug\UserAuthorization.pdb
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csprojResolveAssemblyReference.cache
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchProgramID.resources
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.UserAuthorization.resources
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.Properties.Resources.resources
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.SearchUserID.resources
+D:\MyProject\UserAuthorization\UserAuthorization\obj\x86\Debug\UserAuthorization.csproj.GenerateResource.Cache

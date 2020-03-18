@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{84E1B2CF-AA84-4B6E-BEA2-1190E94E070C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UserAuthorization</RootNamespace>
+    <AssemblyName>UserAuthorization</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SearchProgramID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchProgramID.Designer.cs">
+      <DependentUpon>SearchProgramID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserAuthorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserAuthorization.Designer.cs">
+      <DependentUpon>UserAuthorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchUserID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchUserID.Designer.cs">
+      <DependentUpon>SearchUserID.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SearchProgramID.resx">
+      <DependentUpon>SearchProgramID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserAuthorization.resx">
+      <DependentUpon>UserAuthorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SearchUserID.resx">
+      <DependentUpon>SearchUserID.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_search_48px-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_search_48px-1281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PST_PCL_s.jpg" />
+    <None Include="Resources\PST_PCL_l.jpg1.jpg" />
+    <None Include="Resources\PST_PCL_l.jpg11.jpg" />
+    <None Include="Resources\Actions-list-add-user-icon.png" />
+    <None Include="Resources\Add-Folder-icon.png" />
+    <None Include="Resources\add-1-icon.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\PST_PCL_l.jpg12.jpg" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\file %281%29.png" />
+    <None Include="Resources\file %282%29.png" />
+    <None Include="Resources\vacuum-cleaner.png" />
+    <None Include="Resources\garbage.png" />
+    <Content Include="Webalys-Kameleon.pics-Alien.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
